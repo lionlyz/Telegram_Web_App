@@ -1,0 +1,11 @@
+{
+  "name": "WHATSAPP BOT",
+  "description": "nodejs baileys based whatsapp bot",
+  "repository": "https://github.com/Shubhamrawat5/whatsapp-bot",
+  "keywords": ["whatsapp-bot", "pvx-bot"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+    ]
+}
